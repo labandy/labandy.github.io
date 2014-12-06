@@ -1,0 +1,15 @@
+.headline {
+	background: rgb( 0, 0, 0);
+	color: rgb( 255, 255, 255);
+	font-family: Georgia, serif;
+	font-size: 4em;
+	margin-top: 100px;
+	padding-bottom: 50px 0 50px 0;
+	text-align: center;
+	text-transform: uppercase;
+}
+.smallerheadline {
+	font-size: .8em;
+	padding: 100px;
+	color: red
+}
